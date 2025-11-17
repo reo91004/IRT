@@ -1,6 +1,6 @@
-![POSTSER](POSTER.png)
-
 # FinRL-IRT: Crisis-Adaptive Portfolio Management
+
+![POSTSER](POSTER.png)
 
 FinRL-IRT는 면역학적 Replicator-Transport 연산자를 금융 강화학습 파이프라인에 통합하여 시장 위기 상황에서도 안정적인 포트폴리오 운용을 달성하고자 하는 연구 프로젝트입니다. Stable Baselines3의 SAC 구조 위에 IRT Actor를 결합하고, 위기 감지(T-Cell) 및 최적수송(Sinkhorn)을 통해 위기 레짐 전환에 능동적으로 대응합니다.
 
